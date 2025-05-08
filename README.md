@@ -29,5 +29,5 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e o [npm](https://www.npmj
 ### Passo 1: Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/votacao-pert.git
+git clone
 cd votacao-pert
